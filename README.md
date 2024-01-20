@@ -1,4 +1,4 @@
-# Pokedex | Pojeto de Estudo Agular 
+# BuzzFeed | Pojeto de Estudo Agular 
 
 ---
 ## Sobre o Projeto
