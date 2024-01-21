@@ -1,7 +1,7 @@
 # BuzzFeed | Pojeto de Estudo Agular 
 
 ---
-## Sobre o Projeto
+## Sobre o Projeto 
 - Projeto de Estudos para aprender a usar Angular 
 - Teste BuzzFeed
  ## Tecnologias Utilizadas
